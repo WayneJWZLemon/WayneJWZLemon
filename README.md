@@ -5,7 +5,10 @@
 - 📫 How to reach me: wnz6klj@gmail.com
 - My personal webpage: https://www.jwaynez.com
 
-<!---
-WayneJWZLemon/WayneJWZLemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+<summary>My GitHub Stats</summary>
+
+![WayneJWZLemon's github stats](https://github-readme-stats.vercel.app/api?username=WayneJWZLemon)
+
+</details>
+
