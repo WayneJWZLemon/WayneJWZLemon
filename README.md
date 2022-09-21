@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, web development, and mobile development.
 - 🌱 I’m a software engineer from the Philadelphia, PA area.
 - 💞️ I enjoy reading fantasy novels and watching :basketball:	 
-- 📫 How to reach me: wnz6klj@gmail.com | wayne.zheng@temple.edu
+- 📫 How to reach me: wnz6klj@gmail.com
 - :page_with_curl: personal webpage: https://www.jwaynez.com
 
 
