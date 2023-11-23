@@ -1,13 +1,7 @@
-- 👋 Hi, I’m Jianwei "Wayne" Zheng/郑建威 (@WayneJWZLemon)
-- 👀 I’m interested in data science, web development, and mobile development.
-- 🌱 I’m a software engineer from the Philadelphia, PA area.
-- 💞️ I enjoy reading fantasy novels and watching :basketball:	 
+- 👋 Hi, I'm Jianwei "Wayne" Zheng/郑建威 (@WayneJWZLemon)!
+- 🌱 I specialize as a full stack developer, crafting robust solutions for web and mobile applications. My journey also delves into training ML models.
+- 👀 My passions gravitate toward the realms of data science, web development, and mobile technologies.
+- 💞️ Beyond coding, I find joy in immersing myself in the enchanting worlds of fantasy novels and catching the adrenaline rush of basketball games.
 - 📫 How to reach me: wnz6klj@gmail.com
-- :page_with_curl: personal webpage: https://www.jwaynez.com
-
-
-<summary>GitHub Stats</summary>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=WayneJWZLemon)](https://github.com/WayneJWZLemon/github-profile-trophy)
-
-![WayneJWZLemon's github stats](https://github-readme-stats.vercel.app/api?username=WayneJWZLemon)
+- Linkedin: https://www.linkedin.com/in/j-wayne-zheng
+- Personal webpage: https://www.jwaynez.com
